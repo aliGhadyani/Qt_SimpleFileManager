@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>icon.png</file>
+        <file>tile.png</file>
+        <file>list.png</file>
+    </qresource>
+</RCC>
